@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luciano</h1>
+<h1 align="center">Hi, I'm Luciano</h1>
 <h3 align="center">Im a Jr Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [Tasks Management](https://github.com/OLucho/tasks-management) (With NestJS & React)
