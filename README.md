@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Tasks Management](https://github.com/OLucho/tasks-management) (With NestJS & React)
 
-- 🌱 I’m currently learning **NestJs, Typescript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OLucho](https://github.com/OLucho)
+- 🌱 I’m currently learning **NestJs and Typescript**
 
 - 💬 Ask me about **React, Node/Express**
 
