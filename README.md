@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luciano</h1>
 <h3 align="center">Im a Jr Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Car Rental Agency](https://github.com/OLucho/car-rental-agency) (With Nest & React)
+- 🔭 I’m currently working on [Instagram Clone](https://github.com/OLucho/instagram-clone) (With Nest & React)
 
 - 🌱 I’m currently learning **NestJs and Typescript**
 
